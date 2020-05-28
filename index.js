@@ -7,3 +7,5 @@ const multiply = num1 * num2
 const random = Math.ceil(Math.random() * 10)
 
 const mod = 14 % 5
+
+const max = Math.max(4, 15, 8, 18, 20)
